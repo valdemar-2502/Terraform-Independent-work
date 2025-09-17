@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Terraform»-Kadancev Vladimir
+# Самостоятельная работа к занятию «Terraform»-Kadancev Vladimir
 
 **Это задание для самостоятельной отработки навыков и не предполагает обратной связи от преподавателя. Его выполнение не влияет на завершение модуля. Но мы рекомендуем не откладывать его выполнение, так как в следующем домашнем задании вы будете использовать Terraform для решения рабочей задачи.**
 
@@ -9,7 +9,12 @@
 В связи с недоступностью ресурсов для загрузки Terraform на территории РФ, вы можете использовать зеркало из репозитория по [ссылке](https://github.com/netology-code/devops-materials).
 
 ---
-![Скриншот команды docker ps](https://github.com/valdemar-2502/Docker-Homework/blob/main/docker_ps.png)
+![Скриншот](https://github.com/valdemar-2502/Terraform-Independent-work/blob/main/dowloads_terraform.png)
 
 2. Повторите демо из лекции!
 
+---
+![Скриншот](https://github.com/valdemar-2502/Terraform-Independent-work/blob/main/install%20terraform.png)
+![Скриншот](https://github.com/valdemar-2502/Terraform-Independent-work/blob/main/terraform_init.png)
+
+---

@@ -8,5 +8,8 @@
 
 В связи с недоступностью ресурсов для загрузки Terraform на территории РФ, вы можете использовать зеркало из репозитория по [ссылке](https://github.com/netology-code/devops-materials).
 
+---
+![Скриншот команды docker ps](https://github.com/valdemar-2502/Docker-Homework/blob/main/docker_ps.png)
+
 2. Повторите демо из лекции!
 
